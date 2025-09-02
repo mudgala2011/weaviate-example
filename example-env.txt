@@ -1,0 +1,12 @@
+# Weaviate Configuration
+WEAVIATE_CLUSTER_URL="https://your-cluster-name.weaviate.network"
+WEAVIATE_API_KEY="your-weaviate-api-key"
+
+# OpenAI Configuration
+OPENAI_API_KEY="your-openai-api-key"
+
+# Optional Settings
+BATCH_SIZE=100
+MAX_RETRIES=3
+EMBEDDING_MODEL="text-embedding-3-large"
+LLM_MODEL="gpt-3.5-turbo"
