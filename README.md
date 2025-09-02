@@ -74,7 +74,6 @@ See `requirements.txt` for full list of dependencies.
 ## Data Source
 
 The resume dataset used in this project is sourced from Kaggle. Please ensure you have the proper permissions and citations when using the dataset.
+[Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
 
-## License
 
-[Add your license information here]
